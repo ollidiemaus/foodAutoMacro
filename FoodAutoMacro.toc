@@ -1,0 +1,6 @@
+## Interface: 90002
+## Version: 1.0
+## Title: Food Auto Macro
+## Author: ollidiemaus
+## Notes: Updates the Macro FAMFood to use either Conjured Mana Bun then Ambroria Dew and then Ethereal Pomegranate
+code.lua
